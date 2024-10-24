@@ -1,4 +1,5 @@
 Project Title: Simple Speech Detector System in C to detect the words Yes/No
+
 Methodology:
 -First the word “Yes” or “No” is recorded on Cool Edit and saved as a .txt file.
 -After that the following algorithm is followed to make the code:
